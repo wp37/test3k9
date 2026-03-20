@@ -1,0 +1,7 @@
+{
+  "rewrites": [
+    { "source": "/", "destination": "/quiz-unit8-films.html" },
+    { "source": "/quiz", "destination": "/quiz-unit8-films.html" },
+    { "source": "/unit8", "destination": "/quiz-unit8-films.html" }
+  ]
+}
