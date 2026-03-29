@@ -101,5 +101,5 @@ const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbxxxxxxxxxxxx
 ## Hỗ trợ
 
 Nếu gặp vấn đề, vui lòng liên hệ:
-- 💬 Zalo: [0914666040](https://zalo.me/0914666040)
+- 💬 Zalo: [0814666040](https://zalo.me/0814666040)
 - 📘 Facebook: [facebook.com/vongoctungthcs](https://facebook.com/vongoctungthcs)
